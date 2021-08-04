@@ -2,3 +2,5 @@ theme: minima
 title: DevOps Tools
 description: Discover a Tool Everyday
 logo: /assets/img/logo.png
+header_pages:
+  - about.md
