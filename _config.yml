@@ -7,9 +7,9 @@ header_pages:
 author: KK
 
 social:
-  name: kavinksm
+  name: kavin
   links:
-    - https://twitter.com/kavinksm
+    - https://github.com/kavinksm
 
 plugins:
  - jekyll-seo-tag
