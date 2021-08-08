@@ -4,3 +4,9 @@ description: Discover a Tool Everyday
 logo: /assets/img/logo.png
 header_pages:
   - about.md
+author:
+  name: KK
+
+minima:
+  social_links:
+    github: kavinksm
