@@ -1,15 +1,15 @@
 theme: minima
 title: DevOps Tools
 description: Discover a Tool Everyday
-skin: dark
 logo: /assets/img/logo.png
 header_pages:
   - about.md
 author: KK
 
 minima:
+  skin: dark
   social_links:
-    github:  kavinksm
+    github: kavinksm
 
 plugins:
  - jekyll-seo-tag
