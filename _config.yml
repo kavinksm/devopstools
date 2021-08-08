@@ -6,6 +6,5 @@ header_pages:
   - about.md
 author: KK
 
-minima:
-  social_links:
-    github: kavinksm
+social_links:
+  github: kavinksm
