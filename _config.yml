@@ -10,3 +10,6 @@ author: KK
 minima:
   social_links:
     github:  kavinksm
+
+plugins:
+ - jekyll-seo-tag
