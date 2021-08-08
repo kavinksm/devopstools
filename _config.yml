@@ -4,8 +4,7 @@ description: Discover a Tool Everyday
 logo: /assets/img/logo.png
 header_pages:
   - about.md
-author:
-  name: KK
+author: KK
 
 minima:
   social_links:
