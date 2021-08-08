@@ -6,7 +6,7 @@
 
 ### Topic Covered
 - [What is DevOps ?](devops.md)
-- Where to start (Todo)
+- [Where to start ?](hellodevops.md)
 - Areas of DevOps (Todo)
 <br/>
 <br/>

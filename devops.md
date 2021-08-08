@@ -1,3 +1,7 @@
+---
+title: What is DevOps
+permalink: /whatis/
+---
 Its the one of the area of IT to bridge between teams and work towards automating everything to run the code in live.
 
 It think it will be good to share my view on how DevOps evolved over a decade, In 2010 when there is no DevOps it was quite a large team to manage different tool set. Some of them are,
