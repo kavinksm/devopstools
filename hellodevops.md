@@ -12,3 +12,7 @@ To convert the source code into a package which is ready to be shipped as a prod
 
 ## Continuous Integration (CI)
 CI plays important role in the DevOps lifecycle as it is the center piece which integrate with various products. CI provides a pipeline which help in automating the manual build process with sequence of stages result saving the time and ease the movement of application from code into different environments. 
+
+more to be added..
+
+[back](index.md)

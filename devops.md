@@ -24,3 +24,5 @@ DevOps got evolved after 2015 along with agile where every scrum team a member o
 Since more organization are moving into agile and DevOps got more attention due their importance which glue all together to accomplish the goal.
 
 Current year 2021 DevOps still good role and need a certain set of skill to accomplish it.
+
+[back](index.md)

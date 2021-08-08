@@ -20,3 +20,7 @@ Some of the  area to be covered later on git are
 * Different open source implementation
 * SaaS products
 * Git for less than 100 users
+
+more to be added..
+
+[back](index.md)
