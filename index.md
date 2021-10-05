@@ -4,7 +4,7 @@ title: Welcome to DevOps Blog.
 ### *Learn about DevOps Everyday.*
 <br />
 
-### The idea of this blog to guide the beginers who are intrested in DevOps
+### The idea of this blog to guide the beginners who are interested in DevOps
 <br />
 
 ### Topic Covered
