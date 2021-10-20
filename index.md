@@ -12,6 +12,7 @@ title: Welcome to DevOps Blog.
 - [Where to start ?](hellodevops.md)
 - Areas of DevOps
     - [Source Control](sourcecontrol.md)
+    - [Build Management](buildmanagement.md)
 <br/>
 <br/>
 
