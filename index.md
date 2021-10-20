@@ -13,6 +13,7 @@ title: Welcome to DevOps Blog.
 - Areas of DevOps
     - [Source Control](sourcecontrol.md)
     - [Build Management](buildmanagement.md)
+    - [Continuous Integration](ci.md)
 <br/>
 <br/>
 
