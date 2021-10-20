@@ -16,7 +16,7 @@ CI is a centre of devops lifecycle and trying to integrate with all tools and he
 
 Other CI tools are
 * Bamboo 
-* Teem City
+* Team City
 * Circle CI
 * GO CD
 
