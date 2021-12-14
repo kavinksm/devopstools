@@ -18,7 +18,7 @@ The below is the aggregated list of DecOps tools and its fixes for log4j vulnera
 
 ## List of DevOps tools along with its fixes
 
-| Tools        | Fix Links    | Threat Level  | Updated on   |
+| Tools        | Advisory Links    | Threat Level  | Updated on   |
 |------------- |------------- |-------------- |------------- |
 | Appdynamics | [click here](https://docs.appdynamics.com/display/PAA/Security+Advisory%3A+Apache+Log4j+Vulnerability) | High | - |
 | Bamboo | [click here](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html) | - | - |
