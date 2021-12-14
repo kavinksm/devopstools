@@ -7,6 +7,7 @@ Log4j is an open-source Java logging library widely used in many applications an
 
 The below is the aggregated list of DecOps tools and its fixes for log4j vulnerability
 ## Cloud providers report on log4j
+
 | Tools       | Fix Links |
 | ----------- | ----------- |
 |	AWS	|	https://aws.amazon.com/security/security-bulletins/AWS-2021-006/	|
@@ -19,7 +20,7 @@ The below is the aggregated list of DecOps tools and its fixes for log4j vulnera
 
 | Tools       | Fix Links | Updated on |
 | ----------- | ----------- |----------- |
-|	Appdynamics	|	https://docs.appdynamics.com/display/PAA/Security+Advisory%3A+Apache+Log4j+Vulnerability	|	High	|		|
+|	Appdynamics	|	(https://docs.appdynamics.com/display/PAA/Security+Advisory%3A+Apache+Log4j+Vulnerability)	|	High	|		|
 |	Bamboo	|	https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html	|		|		|
 |	Chef	|	https://www.chef.io/blog/is-chef-vulnerable-to-cve-2021-44228-(log4j)	|	Not affected	|		|
 |	Conflluence	|	https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html	|	Low	|		|
