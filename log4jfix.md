@@ -22,6 +22,6 @@ The below is the aggregated list of DecOps tools and its fixes for log4j vulnera
 |------------- |------------- |-------------- |------------- |
 | Appdynamics| [click here](https://docs.appdynamics.com/display/PAA/Security+Advisory%3A+Apache+Log4j+Vulnerability) | High | - |
 | Bamboo | [click here](https://confluence.atlassian.com/kb/faq-for-cve-2021-44228-1103069406.html) | - | - |
-| Chef | [click here](https://www.chef.io/blog/is-chef-vulnerable-to-cve-2021-44228-\(log4j\))| Not affected | - |
+
 ### Notes
 * Application developed on top of Go-lang are not mostly affected
