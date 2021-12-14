@@ -15,7 +15,8 @@ title: Welcome to DevOps Blog.
     - [Build Management](buildmanagement.md)
     - [Continuous Integration](ci.md)
 - Vulnerability
-- [Apache Log4j vulnerability (CVE-2021-44228)](log4jfix.md)
+    - [Apache Log4j vulnerability (CVE-2021-44228)](log4jfix.md)
+    - [How to check for Log4j vulnerability](checklog4j.md)
 <br/>
 <br/>
 

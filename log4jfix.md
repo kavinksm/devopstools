@@ -49,5 +49,5 @@ The below is the aggregated list of DecOps tools and its fixes for log4j vulnera
 |	WebSphere	|	https://www.ibm.com/support/pages/node/6525706	|		|		|
 |	Wildfly	|	https://www.wildfly.org/news/2021/12/13/Log4j-CVEs/	|		|		|
 
-## Notes
+### Notes
 * Application developed on top of Go-lang are not mostly affected
