@@ -17,3 +17,5 @@ Below are the lost of methods to find or  analyse log4j issue
 ###Detect Threat
 - [Elastic](https://www.elastic.co/blog/detecting-log4j2-with-elastic-security)
 - [Dynatrace](https://www.dynatrace.com/news/blog/log4shell-vulnerability/)
+
+[back](index.md)
