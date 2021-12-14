@@ -14,6 +14,8 @@ title: Welcome to DevOps Blog.
     - [Source Control](sourcecontrol.md)
     - [Build Management](buildmanagement.md)
     - [Continuous Integration](ci.md)
+- Vulnerability
+- [Apache Log4j vulnerability (CVE-2021-44228)](log4jfix.md)
 <br/>
 <br/>
 
