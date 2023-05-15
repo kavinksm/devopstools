@@ -17,6 +17,7 @@ title: Welcome to DevOps Blog.
 - Vulnerability
     - [Apache Log4j vulnerability (CVE-2021-44228)](log4jfix.md)
     - [How to check for Log4j vulnerability](checklog4j.md)
+- [Mastering the Azure Cloud - Your Ultimate Guide to Learning Azure](azure.md)
 <br/>
 <br/>
 
