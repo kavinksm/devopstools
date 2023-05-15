@@ -1,5 +1,5 @@
 ---
-title: Mastering the Azure Cloud - Your Ultimate Guide to Learning Azure
+title: Mastering the Azure Cloud for Beginners
 permalink: /azure/
 ---
 ### Topic Covered

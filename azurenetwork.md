@@ -1,4 +1,8 @@
-# Azure Network Service
+---
+title: Azure Network Service
+permalink: /azurenetwork/
+---
+# Summary
 Azure Network Service is a comprehensive set of networking tools and solutions offered by Microsoft Azure. This service provides a range of options for networking your resources in the cloud, including Virtual Network (VNet), Load Balancer, Application Gateway, VPN Gateway, ExpressRoute, and Traffic Manager.
 
 Azure Virtual Network (VNet) allows you to create a logically isolated network in the cloud, and you can control traffic flow with Azure Load Balancer, Application Gateway, and Traffic Manager. Azure VPN Gateway and ExpressRoute provide secure connectivity options between your on-premises infrastructure and your Azure resources.
