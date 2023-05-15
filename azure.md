@@ -7,7 +7,11 @@ permalink: /azure/
 
 List of some of the major Azure services:
 
- * Azure Virtual Machines
+ * [Azure Virtual Machines](azurenetwork.md)
+     * Azure Load Balancer
+     * Azure Application Gateway
+     * Azure Traffic Manager
+     * Azure ExpressRoute
  * Azure Kubernetes Service
  * Azure App Service
  * Azure Functions
@@ -15,10 +19,6 @@ List of some of the major Azure services:
  * Azure Cosmos DB
  * Azure SQL Database
  * Azure Storage
- * Azure Virtual Network
- * Azure Load Balancer
- * Azure Traffic Manager
- * Azure Application Gateway
  * Azure Active Directory
  * Azure Key Vault
  * Azure Monitor
@@ -26,10 +26,11 @@ List of some of the major Azure services:
  * Azure Automation
  * Azure Backup
  * Azure Site Recovery
- * Azure ExpressRoute
  * Azure CDN
  * Azure Media Services
  * Azure IoT Hub
  * Azure Stream Analytics
  * Azure Machine Learning
  * Azure Cognitive Services
+
+  [back](index.md)
