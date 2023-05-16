@@ -18,7 +18,7 @@ Security: Cloud providers typically offer advanced security features and robust 
 There are several types of cloud computing models, including public cloud, private cloud, and hybrid cloud. Public cloud providers, such as Amazon Web Services, Microsoft Azure, and Google Cloud Platform, offer cloud resources to the general public. Private cloud is a cloud infrastructure that is dedicated to a single organization, typically hosted on-premises or in a third-party data center. Hybrid cloud combines elements of public and private cloud, allowing organizations to leverage the benefits of both.
 
 # Azure
-zure is a cloud computing platform offered by Microsoft that provides a range of services and tools for building, deploying, and managing applications and services in the cloud. Azure offers a wide range of services, including compute, storage, networking, databases, analytics, artificial intelligence, Internet of Things (IoT), and security.
+Azure is a cloud computing platform offered by Microsoft that provides a range of services and tools for building, deploying, and managing applications and services in the cloud. Azure offers a wide range of services, including compute, storage, networking, databases, analytics, artificial intelligence, Internet of Things (IoT), and security.
 
 One of the major advantages of Azure is its scalability, which allows users to quickly and easily scale their applications and services up or down as needed. Azure also offers robust backup and disaster recovery options, advanced security features, and compliance with a wide range of industry and regulatory standards.
 
@@ -26,13 +26,14 @@ Azure provides a flexible and open platform that supports a wide range of progra
 
 Overall, Azure is a comprehensive and flexible cloud computing platform that offers a range of tools and services to help organizations of all sizes build and manage their applications and services in the cloud.
 
-## List of some of the major Azure services:
+## List of the major Azure services:
 
- * [Azure Virtual Machines](azurenetwork.md)
+ * [Azure Network Service](azurenetwork.md)
      * Azure Load Balancer
      * Azure Application Gateway
      * Azure Traffic Manager
      * Azure ExpressRoute
+ * [Azure Virtual Machines](azurevm.md)
  * Azure Kubernetes Service
  * Azure App Service
  * Azure Functions
