@@ -34,13 +34,13 @@ Overall, Azure is a comprehensive and flexible cloud computing platform that off
      * Azure Traffic Manager
      * Azure ExpressRoute
  * [Azure Virtual Machines](azurevm.md)
+ * [Azure Storage](azurestorage.md)
  * Azure Kubernetes Service
  * Azure App Service
  * Azure Functions
  * Azure Container Instances
  * Azure Cosmos DB
  * Azure SQL Database
- * Azure Storage
  * Azure Active Directory
  * Azure Key Vault
  * Azure Monitor

@@ -15,7 +15,7 @@ Azure VMs integrate seamlessly with other Azure services, allowing users to take
 
 In summary, Azure Virtual Machines is a powerful service that provides a flexible and scalable infrastructure for deploying and managing virtual machines in the cloud, offering a wide range of configuration options, scalability, and integration with other Azure services.
 
-## List of Azure Virtual Machine
+## List of Azure Virtual Machine Services
  * Azure Virtual Machines: This is the core service that allows you to create and manage virtual machines in the cloud. It offers a variety of VM sizes and types, supporting both Windows and Linux operating systems.
 
  * Azure Virtual Machine Scale Sets: This service enables you to create and manage a set of identical VMs that can automatically scale based on demand. It simplifies the management of large-scale applications and ensures high availability.
