@@ -35,6 +35,7 @@ Overall, Azure is a comprehensive and flexible cloud computing platform that off
      * Azure ExpressRoute
  * [Azure Virtual Machines](azurevm.md)
  * [Azure Storage](azurestorage.md)
+ * [Azure SQL Database](azuredb.md)
  * Azure Kubernetes Service
  * Azure App Service
  * Azure Functions
